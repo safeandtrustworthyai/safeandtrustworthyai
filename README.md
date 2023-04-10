@@ -1,4 +1,7 @@
-### Hi there 👋
+### Safe and Trustworthy AI Workshop ICLP 2023
+
+More information will be available shortly.
+Meanwhile, check out the [previous iteration](https://www.doc.ic.ac.uk/~chs219/stai-workshop/).
 
 <!--
 **safeandtrustworthyai/safeandtrustworthyai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
