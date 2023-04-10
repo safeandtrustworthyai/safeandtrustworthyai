@@ -6,7 +6,7 @@ Meanwhile, check out the [previous iteration](https://www.doc.ic.ac.uk/~chs219/s
 <!--
 **safeandtrustworthyai/safeandtrustworthyai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are really some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
